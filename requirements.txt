@@ -1,0 +1,4 @@
+tk
+xlsxwriter
+pyvis
+networkx
