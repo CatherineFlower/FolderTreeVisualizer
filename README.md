@@ -53,7 +53,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/folder-tree-visualizer.git
+git clone https://github.com/CatherineFlower/FolderTreeVisualizer.git
 cd folder-tree-visualizer
 ```
 
