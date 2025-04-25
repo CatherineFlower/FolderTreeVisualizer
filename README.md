@@ -17,16 +17,16 @@
 ## 📸 Превью
 
 ### 🌲 Веб-отображение дерева
-![Веб-древо](screenshots/tree_web_example.png)
+![Веб-древо](https://github.com/CatherineFlower/FolderTreeVisualizer/blob/master/assets/screenshots/1c1abb0d-6cd5-4152-8276-a2d2bfb530b4.png)
 
 ### 📊 Экспорт в Excel
-![Excel](screenshots/tree_excel_example.png)
+![Excel](https://github.com/CatherineFlower/FolderTreeVisualizer/blob/master/assets/screenshots/312a1082-a224-4364-8dd1-4756a6ac9c33.png)
 
 ### 🖱️ Стартовое окно
-![Старт](screenshots/start_window.png)
+![Старт](https://github.com/CatherineFlower/FolderTreeVisualizer/blob/master/assets/screenshots/6156fb67-c291-460d-951a-9c6345a5b784.png)
 
 ### 🔧 Меню действий
-![Меню](screenshots/menu_actions.png)
+![Меню](https://github.com/CatherineFlower/FolderTreeVisualizer/blob/master/assets/screenshots/6792d18a-b080-410b-b92f-e661f7685101.png)
 
 ---
 
