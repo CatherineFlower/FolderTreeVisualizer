@@ -62,19 +62,3 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
-
----
-
-## 📂 Скриншоты
-
-Файлы скриншотов должны быть размещены в папке `screenshots/`:
-- `start_window.png`
-- `menu_actions.png`
-- `tree_excel_example.png`
-- `tree_web_example.png`
-
----
-
-## 📃 Лицензия
-
-Проект распространяется под MIT лицензией.
